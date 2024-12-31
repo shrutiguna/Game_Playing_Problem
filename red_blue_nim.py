@@ -1,5 +1,4 @@
-#NAME: Shruti Gunasekaran
-#ID: 1002162170
+
 
 
 import sys
